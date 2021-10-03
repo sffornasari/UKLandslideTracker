@@ -1,0 +1,11 @@
+body::after {
+	content: url(../img/seisram.png);
+	position: fixed;
+	top: 5%;
+	right: 5%;
+	box-shadow: 5px 5px 10px #0;
+	}
+	
+#title {
+	content: normal;
+	}
